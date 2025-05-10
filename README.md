@@ -1,2 +1,3 @@
 # Chrome-install-kali-linux
-Chrome install kali linux set by step notepad
+Chrome install kali linux step by step notepad
+
