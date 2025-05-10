@@ -1,0 +1,13 @@
+google-chrome install on kali linux
+
+sudo apt update && sudo apt upgrade
+sudo apt install wget ca-certificates curl
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+cd ~/Downloads         read-------(goto the .deb file)
+sudo apt install ./google-chrome-stable_current_amd64.deb
+sudo apt install -f
+google-chrome --no-sandbox
+
+
+
+Thanks For reading
